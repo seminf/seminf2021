@@ -35,4 +35,31 @@ ifdef::env-github,env-browser[]
 :warning-caption: :warning:
 endif::[]
 
-= SEMINF
+= II SEMANA ACADÊMICA DE INFORMÁTICA - SEMINF 2021
+
+
+== 5G e os Impactos na Atuação do Profissional de TI
+
+image::banner.jpeg[width=640,height=380]
+
+A II Semana Acadêmica de Informática - SEMINF 2021 acontecerá nos dias 18 de outubro a 22 de outubro de 2021, na modalidade virtual, tendo como tema: 5G e os Impactos na Atuação do Profissional de TI.
+
+Organizada pela Coordenações dos curso de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos, mesas-redondas, desafio de programação e gincana de jogos eletrônicos.   
+
+A semana acadêmica é um evento que possibilita a integração entre pessoas. A troca de informações promovidas pelo evento através da participação de profissionais técnicos, docentes e discentes da área de informática, favorecem de forma significativa a formação do futuro profissional de informática. Acredita-se que por meio de várias perspectivas adquiridas pela experiências dos participantes, é possível que haja um enriquecimento complementar na formação escolar do discente da área de informática.
+
+O principal objetivo da semana acadêmica é proporcionar um ambiente de aprendizado complementar contribuindo na formação dos discentes.
+
+Objetivos Específicos:
+
+- Promover a integração entre os discentes;
+
+- Possibilitar a reciclagem e adição de novos conhecimentos;
+
+- Disseminar os cursos de informática oferecidos pelo IFTO campus Palmas.
+
+== PROGRAMAÇÃO
+
+== INSCRIÇÕES
+
+== COMISSÃO ORGANIZADORA
