@@ -38,19 +38,21 @@ endif::[]
 = II SEMANA ACADÊMICA DE INFORMÁTICA - SEMINF 2021
 
 
-== 5G e os Impactos na Atuação do Profissional de TI
+== 5G E OS IMPACTOS NA ATUAÇÃO DO PROFISSIONAL DE TI
 
 image::folder.jpeg[width=640,height=380,align=center]
 
 A II Semana Acadêmica de Informática - SEMINF 2021 acontecerá nos dias 18 de outubro a 22 de outubro de 2021, na modalidade virtual, tendo como tema: 5G e os Impactos na Atuação do Profissional de TI.
 
-Organizada pela Coordenações dos curso de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos, mesas-redondas, desafio de programação e gincana de jogos eletrônicos.   
+Organizada pela Coordenações dos cursos de informática do IFTO Campus Palmas, com participação de professores e acadêmicos, o evento possui na sua programação, palestras, minicursos, mesas-redondas, desafio de programação e gincana de jogos eletrônicos.   
 
 A semana acadêmica é um evento que possibilita a integração entre pessoas. A troca de informações promovidas pelo evento através da participação de profissionais técnicos, docentes e discentes da área de informática, favorecem de forma significativa a formação do futuro profissional de informática. Acredita-se que por meio de várias perspectivas adquiridas pela experiências dos participantes, é possível que haja um enriquecimento complementar na formação escolar do discente da área de informática.
 
+*Objetivo Geral*
+
 O principal objetivo da semana acadêmica é proporcionar um ambiente de aprendizado complementar contribuindo na formação dos discentes.
 
-Objetivos Específicos:
+*Objetivos Específicos*
 
 - Promover a integração entre os discentes;
 
@@ -61,6 +63,13 @@ Objetivos Específicos:
 == PROGRAMAÇÃO
 
 Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://drive.google.com/file/d/1Ds2uz8g2EXsJKSqQxmMGQCpEG1I-dMtG/view?usp=sharing[Download da programação.]
+
+- Oferta de palestras com temas atuais e relevantes;
+- Uso de mesa-redonda para promoção de debates;
+- Oferta de minicursos visando o complemento/atualização de currículo;
+- Desafios de programação e momentos de jogos promovendo a integração escolar.
+
+
 
 
 image::programação-seminf-2021.jpeg[width=640,,align=center]
