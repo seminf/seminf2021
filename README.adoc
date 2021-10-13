@@ -62,7 +62,7 @@ O principal objetivo da semana acadêmica é proporcionar um ambiente de aprendi
 
 == PROGRAMAÇÃO
 
-Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://drive.google.com/file/d/1Ds2uz8g2EXsJKSqQxmMGQCpEG1I-dMtG/view?usp=sharing[Download da programação.]
+Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://drive.google.com/file/d/1sVlcNyL7yKYTUqCkYIzmSa6ekVt6X1n3/view?usp=sharing[Download da programação.]
 
 - Oferta de palestras com temas atuais e relevantes;
 - Uso de mesa-redonda para promoção de debates;
@@ -70,9 +70,7 @@ Teremos uma semana totalmente dedicada ao evento, com programação nos três tu
 - Desafios de programação e momentos de jogos promovendo a integração escolar.
 
 
-
-
-image::programação-seminf-2021.jpeg[width=640,,align=center]
+image::programacao-seminf-2021.jpeg[width=640,,align=center]
 
 
 == INSCRIÇÕES
