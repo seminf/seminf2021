@@ -39,7 +39,7 @@ endif::[]
 
 == 5G E OS IMPACTOS NA ATUAÇÃO DO PROFISSIONAL DE TI
 
-image::folder.jpeg[width=640,height=380,align=center]
+image::folder-geral.jpeg[width=640,height=380,align=center]
 
 A II Semana Acadêmica de Informática - SEMINF 2021 acontecerá nos dias 18 de outubro a 22 de outubro de 2021, na modalidade virtual, tendo como tema: 5G e os Impactos na Atuação do Profissional de TI.
 
