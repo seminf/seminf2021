@@ -158,17 +158,17 @@ NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - S
 |===
 |TURNO|HORÁRIO|ATIVIDADE|LINK DE TRANSMISSÃO
 
-.3+|MANHÃ |08:30 às 11:30 | Gincana *Free Fire* | https://youtu.be/A_fTbI2ay3I
-|08:30 às 11:30|Gincana *LOL* Sala 1| https://youtu.be/C7rEZzew3Gs
-|08:30 às 11:30|Gincana *LOL* Sala 2 | https://youtu.be/vv28uY-v-GQ
+.3+|MANHÃ |08:30 às 11:30 | Gincana *Free Fire* | https://youtu.be/A_fTbI2ay3I[Ver transmissão]
+|08:30 às 11:30|Gincana *LOL* Sala 1| https://youtu.be/C7rEZzew3Gs[Ver transmissão]
+|08:30 às 11:30|Gincana *LOL* Sala 2 | https://youtu.be/vv28uY-v-GQ[Ver transmissão]
 
-.3+|TARDE |14:30 às 17:30| Gincana *Free Fire* |https://youtu.be/wvozsDS10tc 
-|14:30 às 17:30|Gincana *LOL* Sala 1| https://youtu.be/EjOYXebN-_0
-|14:30 às 17:30|Gincana *LOL* Sala 2| https://youtu.be/ICw_U8BY2GM
+.3+|TARDE |14:30 às 17:30| Gincana *Free Fire* |https://youtu.be/wvozsDS10tc[Ver transmissão]
+|14:30 às 17:30|Gincana *LOL* Sala 1| https://youtu.be/EjOYXebN-_0[Ver transmissão]
+|14:30 às 17:30|Gincana *LOL* Sala 2| https://youtu.be/ICw_U8BY2GM[Ver transmissão]
 
-.3+|NOITE|19:30 às 22:30 | Gincana *Free Fire* |https://youtu.be/DjnU0ZEiwmA
-|19:30 às 22:30|Gincana *LOL* Sala 1 | https://youtu.be/iDKhkAwwcts
-|19:30 às 22:30|Gincana *LOL* Sala 2 | https://youtu.be/vlewwi2geBg
+.3+|NOITE|19:30 às 22:30 | Gincana *Free Fire* |https://youtu.be/DjnU0ZEiwmA[Ver transmissão]
+|19:30 às 22:30|Gincana *LOL* Sala 1 | https://youtu.be/iDKhkAwwcts[Ver transmissão]
+|19:30 às 22:30|Gincana *LOL* Sala 2 | https://youtu.be/vlewwi2geBg[Ver transmissão]
 
 |===
 
@@ -184,8 +184,7 @@ NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - S
 .2+|TARDE|14:30 às 15:30| Palestra: Controle de versão usando o Git  (Raiane Alves) |https://youtu.be/u7HsEiOeNeM[Ver transmissão]
 |15:40 às 17:40|Minicurso: Introdução à carreira de certificação HUAWEI: Uma visão geral da área de infra estrutura. (Prof. Dr. Claudio Monteiro) | https://youtu.be/wEvbsCsc7vk[Ver transmissão]
 
-
-|NOITE|19:30 às 21:30|Apresentação de Projetos| https://youtu.be/y18ieqSXTHo
+|NOITE|19:30 às 21:30|Apresentação de Projetos| https://youtu.be/y18ieqSXTHo[Ver transmissão]
 
 
 |===
