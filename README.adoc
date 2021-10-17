@@ -59,6 +59,12 @@ O principal objetivo da semana acadêmica é proporcionar um ambiente de aprendi
 
 - Disseminar os cursos de informática oferecidos pelo IFTO campus Palmas.
 
+== BEM VINDO AO IFTO CAMPUS PALMAS
+
+Faça um tour pelo Campus Palmas. Tour completo, https://www.thinglink.com/mediacard/1486518255609708546[AQUI]: 
+
+video::Yh_-Sc1nIkA[youtube,width=640,height=480]
+
 == PROGRAMAÇÃO
 
 Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://drive.google.com/file/d/1kEH2Yyv2e71Zulw6mJoQZo371FeyPbck/view?usp=sharing[Download da programação.]
@@ -111,7 +117,7 @@ NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - S
 |TURNO|HORÁRIO|ATIVIDADE|LINK DE TRANSMISSÃO
 
 .2+|MANHÃ|09:00 às 10:00| Abertura |https://youtu.be/M2mA1igqNBs[Ver transmissão] 
-|10:00 às 11:00|Palestra: Flai Inteligência Artifical - Startup de Tecnologia (Ricardo Rocha) | https://youtu.be/WfiX-XzZFdI[Ver transmissão]
+|10:00 às 11:00|Palestra: As 7 Maravilhas da Inteligência Artificial - A Revolução do Mundo Moderno.(Ricardo Rocha - Flai Inteligência Artifical) | https://youtu.be/WfiX-XzZFdI[Ver transmissão]
 
 .2+|TARDE|14:00 às 18:00| Minicurso 1: Visualização de dados com Metabase (Rodrigo Porto)    |https://youtu.be/ftR9oDfrfq0[Ver transmissão]
 |16:00 às 18:00|Minicurso 2: Automação de processos em servidores com Shell Script (Prof. Dr. Claudio Monteiro)| https://youtu.be/Vl0qcczJn9I[Ver transmissão]
@@ -188,6 +194,32 @@ NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - S
 
 
 |===
+
+=== Instruções para Gincana de Jogos Eletrônicos 
+
+==== Free Fire
+
+Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/rKXdFMezhcaT8N5W7[inscrição Free Fire]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
+
+Informações importantes:
+
+- Limitado a 46 inscrições;
+- Serão 5 rodadas de classificação para a final;
+- Estará classificado para a final o vencedor de cada uma das 5 rodadas. Se um jogador vencer mais de uma rodada, o finalista será selecionado mediante a ordem de classificação da partida;
+- A final vai ocorrer em partida única entre os 5 finalistas.
+
+==== LOL
+
+Para participar da gincana LOL, o grupo (5 jogadores) deve fazer a inscrição neste link: https://forms.gle/zahiKacdbvrp2GqN6[inscrição equipe LOL]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
+
+Informação importante:
+
+- Inscrições limitada a 8 grupos.
+
+As rodadas serão conforme apresenta a imagem a seguir.
+
+image::LOL-grupos.png[width=640,,align=center]
+
 
 == CERTIFICADO
 
