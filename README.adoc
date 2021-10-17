@@ -106,6 +106,33 @@ Faça sua inscrição https://si.ifto.edu.br/evento/inscricao/1092/[AQUI].
 
 IMPORTANT: Não serão aceitas inscrições após o dia 17/10/2021.
 
+=== Inscrições para Gincana de Jogos Eletrônicos 
+
+==== Free Fire
+
+Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/rKXdFMezhcaT8N5W7[inscrição Free Fire]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
+
+Informações importantes:
+
+- Limitado a 46 inscrições;
+- Serão 5 rodadas de classificação para a final;
+- Estará classificado para a final o vencedor de cada uma das 5 rodadas. Se um jogador vencer mais de uma rodada, o finalista será selecionado mediante a ordem de classificação da partida;
+- A final vai ocorrer em partida única entre os 5 finalistas.
+
+==== LOL
+
+Para participar da gincana LOL, o grupo (5 jogadores) deve fazer a inscrição neste link: https://forms.gle/zahiKacdbvrp2GqN6[inscrição equipe LOL]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
+
+Informação importante:
+
+- Inscrições limitada a 8 grupos.
+
+As rodadas serão conforme apresenta a imagem a seguir.
+
+image::LOL-grupos.png[width=640,,align=center]
+
+
+
 == LINK DE TRANSMISSÃO
 
 NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - Semana Acadêmica de Informática - Campus Palmas]
@@ -194,31 +221,6 @@ NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - S
 
 
 |===
-
-=== Instruções para Gincana de Jogos Eletrônicos 
-
-==== Free Fire
-
-Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/rKXdFMezhcaT8N5W7[inscrição Free Fire]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
-
-Informações importantes:
-
-- Limitado a 46 inscrições;
-- Serão 5 rodadas de classificação para a final;
-- Estará classificado para a final o vencedor de cada uma das 5 rodadas. Se um jogador vencer mais de uma rodada, o finalista será selecionado mediante a ordem de classificação da partida;
-- A final vai ocorrer em partida única entre os 5 finalistas.
-
-==== LOL
-
-Para participar da gincana LOL, o grupo (5 jogadores) deve fazer a inscrição neste link: https://forms.gle/zahiKacdbvrp2GqN6[inscrição equipe LOL]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
-
-Informação importante:
-
-- Inscrições limitada a 8 grupos.
-
-As rodadas serão conforme apresenta a imagem a seguir.
-
-image::LOL-grupos.png[width=640,,align=center]
 
 
 == CERTIFICADO
