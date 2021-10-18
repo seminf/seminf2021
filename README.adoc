@@ -65,6 +65,7 @@ Faça um tour pelo Campus Palmas. Tour completo, https://www.thinglink.com/media
 
 video::Yh_-Sc1nIkA[youtube,width=640,height=480]
 
+
 == PROGRAMAÇÃO
 
 Teremos uma semana totalmente dedicada ao evento, com programação nos três turnos. https://drive.google.com/file/d/1kEH2Yyv2e71Zulw6mJoQZo371FeyPbck/view?usp=sharing[Download da programação.]
@@ -73,69 +74,6 @@ Teremos uma semana totalmente dedicada ao evento, com programação nos três tu
 - Uso de mesa-redonda para promoção de debates;
 - Oferta de minicursos visando o complemento/atualização de currículo;
 - Desafios de programação e momentos de jogos promovendo a integração escolar.
-
-IMPORTANT: Fique atento aos pré-requisitos dos minicursos no tópico a seguir.
-
-image::programacao-seminf-2021.jpeg[width=640,,align=center]
-
-=== Pré-requisitos para Minicursos
-
-[%header]
-|===
-|MINICURSO|PRÉ-REQUISITO
-|Automação de processos em servidores com Shell Script|https://drive.google.com/drive/u/0/folders/1ri5ks00xsWobE86WICmbBdVJKUBRthSp[Baixar o Linux_CORE_GREDES.ova] e https://youtu.be/sIaKK3_vSLM[assistir ao vídeo]
-
-|Visualização de dados com Metabase|Links:
-https://www.portaltransparencia.gov.br/download-de-dados/viagens[Dados para trabalho];
-https://www.metabase.com/start/oss/jar.html[Metabase];
-https://www.java.com/pt-BR/[Java 7/8/11];
-https://www.postgresql.org/download/[PostgreSQL] e
-https://dbeaver.io/download/[DBeaver Community].
-
-|Python - Nível intermediário|https://code.visualstudio.com/download[VSCode] com plugin Python 3.9 e conhecimento em lógica de programação.
-
-|Desenvolvimento Mobile com tecnologias No Code e Low Code.|Conta Google
-
-|===
-
-== INSCRIÇÕES
-
-*Período de inscrição*: 13/10/2021 a  17/10/2021.
-
-Faça sua inscrição https://si.ifto.edu.br/evento/inscricao/1092/[AQUI].
-
-IMPORTANT: Não serão aceitas inscrições após o dia 17/10/2021.
-
-=== Inscrições para Gincana de Jogos Eletrônicos 
-
-==== Free Fire
-
-Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/rKXdFMezhcaT8N5W7[inscrição Free Fire]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
-
-A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
-
-Informações importantes:
-
-- Limitado a 46 inscrições;
-- Serão 5 rodadas de classificação para a final;
-- Estará classificado para a final o vencedor de cada uma das 5 rodadas. Se um jogador vencer mais de uma rodada, o finalista será selecionado mediante a ordem de classificação da partida;
-- A final vai ocorrer em partida única entre os 5 finalistas.
-
-==== LOL
-
-Para participar da gincana LOL, o grupo (5 jogadores titulares, 5 reservas) deve fazer a inscrição neste link: https://forms.gle/zahiKacdbvrp2GqN6[inscrição equipe LOL]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.  
-
-A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
-
-Informação importante (https://drive.google.com/file/d/16uPP9VofY-oaYkG2_0FA88yKAhNovfH_/view?usp=sharing[Download do regulamento]):
-
-- Inscrições limitada a 4 equipes.
-
-As rodadas serão conforme apresenta a imagem a seguir.
-
-image::LOL-grupos-up.png[width=640,,align=center]
-
-== LINK DE TRANSMISSÃO
 
 NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - Semana Acadêmica de Informática - Campus Palmas]
 
@@ -224,6 +162,62 @@ NOTE: https://www.youtube.com/channel/UCp0nBxmU1K7Ha3jOeHROc5g[CANAL YOUTUBE - S
 
 |===
 
+=== Pré-requisitos para Minicursos
+
+[%header]
+|===
+|MINICURSO|PRÉ-REQUISITO
+|Automação de processos em servidores com Shell Script|https://drive.google.com/drive/u/0/folders/1ri5ks00xsWobE86WICmbBdVJKUBRthSp[Baixar o Linux_CORE_GREDES.ova] e https://youtu.be/sIaKK3_vSLM[assistir ao vídeo]
+
+|Visualização de dados com Metabase|Links:
+https://www.portaltransparencia.gov.br/download-de-dados/viagens[Dados para trabalho];
+https://www.metabase.com/start/oss/jar.html[Metabase];
+https://www.java.com/pt-BR/[Java 7/8/11];
+https://www.postgresql.org/download/[PostgreSQL] e
+https://dbeaver.io/download/[DBeaver Community].
+
+|Python - Nível intermediário|https://code.visualstudio.com/download[VSCode] com plugin Python 3.9 e conhecimento em lógica de programação.
+
+|Desenvolvimento Mobile com tecnologias No Code e Low Code.|Conta Google
+
+|===
+
+== INSCRIÇÕES
+
+*Período de inscrição*: 13/10/2021 a  17/10/2021.
+
+Faça sua inscrição https://si.ifto.edu.br/evento/inscricao/1092/[AQUI].
+
+IMPORTANT: Não serão aceitas inscrições após o dia 17/10/2021.
+
+=== Inscrições para Gincana de Jogos Eletrônicos 
+
+==== Free Fire
+
+Para participar da gincana Free Fire, você deve fazer a inscrição neste link: https://forms.gle/rKXdFMezhcaT8N5W7[inscrição Free Fire]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.
+
+A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
+
+Informações importantes:
+
+- Limitado a 46 inscrições;
+- Serão 5 rodadas de classificação para a final;
+- Estará classificado para a final o vencedor de cada uma das 5 rodadas. Se um jogador vencer mais de uma rodada, o finalista será selecionado mediante a ordem de classificação da partida;
+- A final vai ocorrer em partida única entre os 5 finalistas.
+
+==== LOL
+
+Para participar da gincana LOL, o grupo (5 jogadores titulares, 5 reservas) deve fazer a inscrição neste link: https://forms.gle/zahiKacdbvrp2GqN6[inscrição equipe LOL]. O formulário para inscrição estará disponível no dia 18/10 após as instruções informadas na abertura do evento.  
+
+A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://discord.com/invite/D4tBWYnxym[link‌ ‌para‌ ‌o‌ ‌servidor‌‌]. Os‌ ‌participantes‌ ‌que‌ ‌ainda‌ ‌não‌ ‌possuem‌ ‌o‌ ‌aplicativo,‌ poderão‌ baixá-lo‌ ‌através‌ https://discord.com/download[deste link]. ‌
+
+Informação importante (https://drive.google.com/file/d/16uPP9VofY-oaYkG2_0FA88yKAhNovfH_/view?usp=sharing[Download do regulamento]):
+
+- Inscrições limitada a 4 equipes.
+
+As rodadas serão conforme apresenta a imagem a seguir.
+
+image::LOL-grupos-up.png[width=640,,align=center]
 
 == CERTIFICADO
 
