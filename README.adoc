@@ -201,9 +201,7 @@ A comunicação entre jogadores será pelo ‌aplicativo‌ ‌Discord, https://
 Informações importantes:
 
 - Limitado a 48 inscrições;
-- Serão 5 rodadas de classificação para a final;
-- Estará classificado para a final o vencedor de cada uma das 5 rodadas. Se um jogador vencer mais de uma rodada, o finalista será selecionado mediante a ordem de classificação da partida;
-- A final vai ocorrer em partida única entre os 5 finalistas.
+- Será considerado campeão o jogador com maior pontuação em 5 rodadas.
 
 ==== LOL
 
