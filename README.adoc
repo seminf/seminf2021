@@ -219,9 +219,9 @@ image::LOL-grupos-up.png[width=640,,align=center]
 
 == CERTIFICADO
 
-Os certificados estarão disponíveis a partir do dia 27/10/2021 https://si.ifto.edu.br/evento/certificados/[AQUI].
+Os certificados estarão disponíveis a partir do dia 28/10/2021 aqui na página do evento.
 
-NOTE: Informe seu CPF no sistema para gerar o certificado.
+//NOTE: Informe seu CPF no sistema para gerar o certificado.
 
 == COMISSÃO ORGANIZADORA
 
