@@ -219,9 +219,12 @@ image::LOL-grupos-up.png[width=640,,align=center]
 
 == CERTIFICADO
 
-Os certificados estarão disponíveis a partir do dia 03/11/2021 aqui na página do evento. 
+Você pode emitir seu certificado  https://si.ifto.edu.br/evento/certificados/[aqui]. 
 
-//NOTE: Informe seu CPF no sistema para gerar o certificado.
+NOTE: Informe seu CPF no sistema para gerar o certificado.
+
+Em caso de dúvidas, envie e-mail para seminf.palmas@ifto.edu.br.
+
 
 == COMISSÃO ORGANIZADORA
 
